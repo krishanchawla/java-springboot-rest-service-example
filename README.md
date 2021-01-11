@@ -24,7 +24,7 @@ https://github.com/krishanchawla/java-springboot-rest-service-example
 ## Documentation
 The documentation for the API's can be accessed through the Swagger UI within the application using the following URL:
 
-**Swagger UI Path -** <Application-IP>:<ApplicationPort>/swagger-ui.html/
+**Swagger UI Path -** [Application-IP]:[ApplicationPort]/swagger-ui.html/
   
 ![Swagger-UI](https://user-images.githubusercontent.com/28475979/104162626-fe769800-541a-11eb-8489-f96fbb4316de.JPG)
 
