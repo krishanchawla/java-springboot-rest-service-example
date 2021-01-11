@@ -11,10 +11,13 @@ https://github.com/krishanchawla/java-springboot-rest-service-example
 2. Setup the Project in IntelliJ / Eclipse.
 
 3. Configure the application Port if Required in
+
     `src/main/resources/application.properties -> server.port`
 
 4. Build and run the app using maven
+
     `mvn package`
+    
     `java -jar target/spring-boot-rest-api-tutorial-0.0.1-SNAPSHOT.jar`
     
     Alternatively, you can run the app without packaging by executing UserServiceApplication.java from IntelliJ or Eclipse.
